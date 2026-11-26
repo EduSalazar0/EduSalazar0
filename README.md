@@ -109,8 +109,8 @@ backends that scale: event-driven microservices, containerized deployments and s
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/EduSalazar0/Cogarol-Assets-Manager">Cogarol Assets Manager</a></h4>
-      Asset management web app built with TypeScript and deployed on Vercel.
+      <h4>🎉 <a href="https://github.com/EduSalazar0/Cogarol-Assets-Manager">Cogarol: Carnival raffle landing</a></h4>
+      Branded landing page for a security company's Carnival campaign: QR access, raffle sign-up with shared Zod validation, Express API and PostgreSQL via Drizzle.
       <a href="https://cogarol-assets-manager.vercel.app">Live demo →</a>
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
